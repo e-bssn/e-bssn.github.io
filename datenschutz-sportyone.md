@@ -1,7 +1,7 @@
 Datenschutzerklärung
 Letzte Aktualisierung: [August 21, 2025]
 
-Diese Datenschutzerklärung gilt für die App (im Folgenden „die App“), die es Nutzern ermöglicht, sich mit Kursleitern zu verbinden, Kurse zu buchen und ihren Lernfortschritt zu verfolgen.
+Diese Datenschutzerklärung gilt für die App SportyOne, die es Nutzern ermöglicht, sich mit Kursleitern zu verbinden, Kurse zu buchen und ihren Lernfortschritt zu verfolgen.
 
 1. Erfassung und Nutzung personenbezogener Daten
 Die App erhebt bestimmte personenbezogene Daten, um ihre Funktionen bereitzustellen und die Kommunikation zwischen Nutzern und Kursleitern zu ermöglichen. Diese Daten werden über eine sichere Verbindung an unsere Server übermittelt und in einer Online-Datenbank gespeichert.
@@ -48,7 +48,7 @@ Updated Privacy Policy
 Privacy Policy
 Last updated: [August 21, 2025]
 
-This privacy policy applies to the App (hereinafter “the App”), which allows users to connect with course instructors, book courses, and track their progress.
+This privacy policy applies to the App SportyOne, which allows users to connect with course instructors, book courses, and track their progress.
 
 1. Collection and Use of Personal Data
 The App collects certain personal data to provide its functions and facilitate communication between users and course instructors. This data is transmitted to our servers via a secure connection and stored in an online database.
