@@ -1,4 +1,3 @@
-Datenschutzerklärung für Psave (Password Manager App) 
 English Privacy Policy
 Last Updated: September 14, 2025
 
